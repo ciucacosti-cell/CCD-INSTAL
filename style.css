@@ -43,7 +43,7 @@ body{
 .hero{
     height:500px;
 background: linear-gradient(rgba(13,110,253,0.70), rgba(13,110,253,0.70)),
-url("images/logo.jpeg") center center/cover no-repeat;    display:flex;
+url("logo.jpeg") center center/cover no-repeat;    display:flex;
     flex-direction:column;
     justify-content:center;
     align-items:center;
