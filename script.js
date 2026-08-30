@@ -19,17 +19,17 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Lista cu imaginile tale
  const images = [
-    "Poze lucrari/img1.jpeg",
-    "Poze lucrari/img2.jpeg",
-    "Poze lucrari/img3.jpeg",
-    "Poze lucrari/img4.jpeg",
-    "Poze lucrari/img5.jpeg",
-    "Poze lucrari/img6.jpeg",
-    "Poze lucrari/img7.jpeg",
-    "Poze lucrari/img8.jpeg",
-    "Poze lucrari/img9.jpeg",
-    "Poze lucrari/img10.jpeg",
-    "Poze lucrari/img11.jpeg"
+    "img1.jpeg",
+    "img2.jpeg",
+    "Pimg3.jpeg",
+    "img4.jpeg",
+    "img5.jpeg",
+    "img6.jpeg",
+    "img7.jpeg",
+    "img8.jpeg",
+    "img9.jpeg",
+    "img10.jpeg",
+    "img11.jpeg"
 ];
 
   let index = 0;
